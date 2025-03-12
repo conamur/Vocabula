@@ -1,1 +1,16 @@
-
+<!DOCTYPE html>
+<html lang='it'>
+<head>
+ <title>Dizionario</title>
+</head>
+<header>
+ <img src="https://grecolatinovivo.it/loghi/img/glv-logo-nobg.png" width=960>
+</header>
+<body>
+ <br><button style="text-align:center; background-color:#1A2E3C; color:white; font-size:28px;border-radius:12px">Italian</button>
+ <button style="text-align:center; background-color:#1A2E3C; color:white; font-size:28px; border-radius:12px">French</button>
+ <br><br><h1 style="text-align:center; font-size:72px">Vocabula</h1>
+ <p style="text-align:center; font-size:28px"><b>Fluvius</b> = river<br><br>
+ <b>Insula</b> = island <br><br>
+ <b>Oppidum</b> = city</p>
+</body>
